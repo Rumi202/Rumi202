@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rumi
+# 👋 Hi, I'm Rume Akter
 
 🎓 **CSE Graduate from IUBAT** (CGPA: 3.65)  
 💻 Aspiring **.NET Developer & SQA Engineer**  
@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-## 🚀 About Me
+
 I am a **CSE Graduate** and an **SQA Engineer** with a strong interest in **.NET-based application development**.  
 I focus on ensuring software quality through **manual testing, test case design, and defect reporting**, while understanding applications from both user and technical perspectives.
 
