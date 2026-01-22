@@ -1,37 +1,93 @@
-# 📌 Project Name
+# 👋 Hi, I'm Rumi
 
-## 📖 Description
-A brief description of what this project does and who it is for.  
-Explain the main purpose of the project in 2–4 lines.
-
-Example:  
-This project is a simple web-based application built using ASP.NET that allows users to manage tickets efficiently with role-based access.
+🎓 **CSE Graduate from IUBAT** (CGPA: 3.65)  
+💻 Aspiring **.NET Developer & SQA Engineer**  
+🧪 Passionate about **Software Testing, Quality Assurance, and Clean Code**
 
 ---
 
-## 🚀 Features
-- ✅ Feature one
-- ✅ Feature two
-- ✅ Feature three
-- ✅ User-friendly interface
-- ✅ Secure and scalable design
+## 🚀 About Me
+I am a Computer Science and Engineering graduate with strong interest in **.NET-based application development** and **Software Quality Assurance (SQA)**.  
+I enjoy working with **C#, ASP.NET**, manual testing, test case design, and defect reporting.  
+Currently, I am focused on improving my skills and gaining real-world experience through projects and continuous learning.
 
 ---
 
-## 🛠️ Technologies Used
-- **Programming Language:** C#
-- **Framework:** ASP.NET / .NET Core
-- **Database:** SQL Server
-- **Frontend:** HTML, CSS, Bootstrap
-- **Tools:** Visual Studio, Git, GitHub
+## 🛠️ Technical Skills
+
+### 💻 Programming & Frameworks
+- C#
+- ASP.NET / .NET Core
+- MVC Architecture
+
+### 🧪 Software Testing
+- Manual Testing
+- Test Case Design
+- Bug Reporting
+- SDLC & STLC
+
+### 🗄️ Database
+- SQL Server
+- Entity Framework (Basic)
+
+### 🌐 Web Technologies
+- HTML
+- CSS
+- Bootstrap
+
+### 🛠️ Tools & Platforms
+- Visual Studio
+- Git & GitHub
+- Postman (Basic)
 
 ---
 
-## 📂 Project Structure
-```text
-├── Controllers
-├── Models
-├── Views
-├── wwwroot
-├── appsettings.json
-└── README.md
+## 📌 Projects
+
+### 🔹 Code Koro (ASP.NET Project)
+- .NET-based web application
+- User-friendly interface with backend logic
+- Focused on clean code and structured development
+
+### 🔹 Smart Queue & Emergency Management System
+- Built using C# and ASP.NET Core
+- Role-based access system
+- Emergency handling logic and database integration
+
+### 🔹 Online Bus Ticket Management System
+- ASP.NET MVC-based project
+- Ticket booking and management features
+- SQL Server database integration
+
+### 🔹 Software Testing Project
+- Manual testing of a real-world website
+- Designed 100+ test cases
+- Identified bugs and documented reports
+
+---
+
+## 📚 Currently Learning
+- Advanced ASP.NET Core
+- Automation Testing (Basic Concepts)
+- API Testing
+- Software Quality Best Practices
+
+---
+
+## 🎯 Career Goal
+To secure a **.NET Developer or SQA Intern position** where I can apply my technical skills, improve software quality, and grow as a professional in a reputed organization.
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rumi202&show_icons=true&theme=default)
+
+---
+
+## 📫 Connect With Me
+- GitHub: [https://github.com/Rumi202](https://github.com/Rumi202)
+- LinkedIn: *Coming Soon*
+
+---
+
+⭐ *Thank you for visiting my profile! Feel free to explore my repositories and connect with me.*
