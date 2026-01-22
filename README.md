@@ -7,11 +7,12 @@
 ---
 
 ## 🚀 About Me
-I am a Computer Science and Engineering graduate with strong interest in **.NET-based application development** and **Software Quality Assurance (SQA)**.  
-I enjoy working with **C#, ASP.NET**, manual testing, test case design, and defect reporting.  
-Currently, I am focused on improving my skills and gaining real-world experience through projects and continuous learning.
+## 🚀 About Me
+I am a **CSE Graduate** and an **SQA Engineer** with a strong interest in **.NET-based application development**.  
+I focus on ensuring software quality through **manual testing, test case design, and defect reporting**, while understanding applications from both user and technical perspectives.
 
----
+Alongside software testing, I am continuously learning **C# and ASP.NET** to strengthen my knowledge of development and improve collaboration with developers for building reliable and high-quality software systems.
+
 
 ## 🛠️ Technical Skills
 
