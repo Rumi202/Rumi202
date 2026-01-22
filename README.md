@@ -87,7 +87,7 @@ To secure a **.NET Developer or SQA Intern position** where I can apply my techn
 
 ## 📫 Connect With Me
 - GitHub: [https://github.com/Rumi202](https://github.com/Rumi202)
-- LinkedIn: *Coming Soon*
+- LinkedIn: (https://www.linkedin.com/in/rume-akter/)
 
 ---
 
